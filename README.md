@@ -1,11 +1,12 @@
 <img width="2719" height="1081" alt="image" src="https://github.com/user-attachments/assets/38d03b4c-b4ff-46ef-bf54-a8524c052235" />
 
 
-
+<div align = 'center'>
+  
 ![cool stats](https://github-readme-stats.vercel.app/api?username=afaqmvirk&show_icons=true&theme=merko&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000) 
 [![cool languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afaqmvirk&hide=ShaderLab,HLSL&layout=compact&theme=merko&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
