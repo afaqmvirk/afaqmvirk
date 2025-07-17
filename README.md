@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AfaqV!
+<img width="2719" height="1081" alt="image" src="https://github.com/user-attachments/assets/38d03b4c-b4ff-46ef-bf54-a8524c052235" />
+
 
 
 
