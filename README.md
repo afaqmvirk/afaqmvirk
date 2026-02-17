@@ -11,7 +11,7 @@
 * 🧭 **[Kompas](https://devpost.com/software/kompas)** - a compass that uses magnometers and GNSS to bring you to the nearest shawarma place
 * ⚛️ **[Relatom](https://github.com/afaqmvirk/relatom)** - AST parser and lexer for a miniature relax-style language
 * 🍚 **[플래시카드](https://afaqvirk.com/kore1010/practice)** - basic flashcard app to learn Korean
-* 🚨 **[Jeopardy](https://github.com/afaqmvirk/jeopardy)** - software to host Jeopardy games
+* 🚨 **[Jeopardy](https://github.com/afaqmvirk/jeopardy)** - software to host local multi-player Jeopardy games with buzzers
 * 🟦 **[Kode!](https://github.com/afaqmvirk/kode)** - simple app for single-player quizzes
 ### 2024
 * 🔴 **[LeetCode Games](https://github.com/afaqmvirk/carleton-leetcode-bootcamp-2025)** - Squid Game but for Leecode
