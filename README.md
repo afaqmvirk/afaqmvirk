@@ -25,7 +25,7 @@
     ![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat&logo=pandas&logoColor=white)
 
 ### • 2025
-> 🧭 **[Kompas](https://devpost.com/software/kompas)** — GNSS + magnetometer shawarma compass  
+> 🧭 **[Kompas](https://devpost.com/software/kompas)** — GNSS + magnetometer compass to take you to shawarma shops  
     ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat&logo=arduino&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat&logo=cplusplus&logoColor=white)
     ![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat&logo=blender&logoColor=white)  
