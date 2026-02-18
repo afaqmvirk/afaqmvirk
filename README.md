@@ -13,7 +13,7 @@
 * ![Arduino](https://img.shields.io/badge/-00979D?logo=arduino&logoColor=white) **[Kompas](https://devpost.com/software/kompas)** - a compass that uses magnometers and GNSS to bring you to the nearest shawarma place
 * ![Ruby](https://img.shields.io/badge/-CC342D?logo=ruby&logoColor=white) **[afmenus](https://rubygems.org/gems/afmenus)** - Ruby gem to easily create CLI menus 
 * ![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)
- **[Relatom](https://github.com/afaqmvirk/relatom)** - AST parser and lexer for a miniature relax-style language
+ **[relatom](https://github.com/afaqmvirk/relatom)** - AST parser and lexer for a miniature relax-style language
 * ![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black)
  **[플래시카드](https://afaqvirk.com/kore1010/practice)** - basic flashcard app to learn Korean
 * ![React Router](https://img.shields.io/badge/-CA4245?logo=reactrouter&logoColor=white)
