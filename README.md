@@ -1,7 +1,6 @@
 <img width="2719" height="1081" alt="image" src="https://github.com/user-attachments/assets/38d03b4c-b4ff-46ef-bf54-a8524c052235" />
 
-# Projects
-### • 2026
+### • 2026 Projects
 > 🥙 **[Donair](https://donair.tech/)** — a platform for instant agentic crowdfunding  
     ![Solana](https://img.shields.io/badge/Solana-0d1117?style=flat&logo=solana&logoColor=white)
     ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat&logo=vite&logoColor=white)
@@ -10,6 +9,7 @@
   🎓 **[MathemaTech](https://mthm.tech/)** — a hands-free AI teacher that actually teaches  
     ![React Router](https://img.shields.io/badge/React%20Router-0d1117?style=flat&logo=reactrouter&logoColor=white)
     ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat&logo=supabase&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
     ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat&logo=googlegemini&logoColor=white)  
     📡 **[LoRaWATsGoingOn](https://devpost.com/software/computer-networks-hackathon-ssi-canada)** — dashboard to monitor LoRaWAN IoT devices  
     ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=white)
@@ -20,11 +20,15 @@
     ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0d1117?style=flat&logo=verilog&logoColor=white)
     ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0d1117?style=flat&logo=elevenlabs&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)  
-     📊 **[E2900](#)** — ML to forecast post-secondary career earnings  
+     📊 **[TBA](#)** — ML/econometrics research project to forecast post-secondary career earnings  
     ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=white)
-    ![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat&logo=pandas&logoColor=white)
+    ![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat&logo=pandas&logoColor=white)  
+      🖱️ **[TBA](#)** — Logitech Creative Console plugin for AI orchestration  
+    ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat&logo=dotnet&logoColor=white)
+     ![Logitech Actions SDK](https://img.shields.io/badge/Logitech_Actions_SDK-0d1117?style=flat&logoColor=white)
 
-### • 2025
+
+### • 2025 Projects
 > 🧭 **[Kompas](https://devpost.com/software/kompas)** — GNSS + magnetometer compass to take you to shawarma shops  
     ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat&logo=arduino&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat&logo=cplusplus&logoColor=white)
@@ -48,7 +52,7 @@
     ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=black)
     ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat&logo=css3&logoColor=white)
 
-### • 2024
+### • 2024 Projects
 > 🧪 **[LeetCode Games](https://github.com/afaqmvirk/carleton-leetcode-bootcamp-2025)** — Squid Game for LeetCode  
     ![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=flat&logo=latex&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)
@@ -57,7 +61,7 @@
     ![Remix](https://img.shields.io/badge/Remix-0d1117?style=flat&logo=remix&logoColor=white)
     ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=white)  
- 🗳️ **[StudentSenateVote](#)** — ranked choice voting software for school board elections  
+ 🗳️ **[SenateVote](#)** — ranked choice voting software for school board elections  
     ![Visual Basic](https://img.shields.io/badge/VBA-0d1117?style=flat&logo=libreofficecalc&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=white)  
  👁️ **[elECHOlocation](https://partner.projectboard.world/ysc/project/elecholocation-an-innovation-to-mitigate-visual-impairment)** – assistive echolocation device  
