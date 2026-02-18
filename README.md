@@ -57,7 +57,7 @@
     ![Remix](https://img.shields.io/badge/Remix-0d1117?style=flat&logo=remix&logoColor=white)
     ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=white)  
- 🗳️ **[StudentSenateVote](#)** — ranked choice voting software for school board elections
+ 🗳️ **[StudentSenateVote](#)** — ranked choice voting software for school board elections  
     ![Visual Basic](https://img.shields.io/badge/VBA-0d1117?style=flat&logo=libreofficecalc&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=white)  
  👁️ **[elECHOlocation](https://partner.projectboard.world/ysc/project/elecholocation-an-innovation-to-mitigate-visual-impairment)** – assistive echolocation device  
