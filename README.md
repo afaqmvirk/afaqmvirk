@@ -33,7 +33,7 @@
     ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat&logo=arduino&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=flat&logo=cplusplus&logoColor=white)
     ![Blender](https://img.shields.io/badge/Blender-0d1117?style=flat&logo=blender&logoColor=white)  
-    🧰 **[afmenus](https://rubygems.org/gems/afmenus)** — Ruby gem for CLI menus  
+    🧰 **[afmenus](https://rubygems.org/gems/afmenus)** — Ruby gem for CLI menus (700+ installs)  
     ![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=flat&logo=ruby&logoColor=white)
     ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=white)
     ![RubyGems](https://img.shields.io/badge/RubyGems-0d1117?style=flat&logo=rubygems&logoColor=white)  
