@@ -20,12 +20,6 @@
     ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0d1117?style=flat&logo=verilog&logoColor=white)
     ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0d1117?style=flat&logo=elevenlabs&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)  
-     📊 **[TBA](#)** — ML/econometrics research project to forecast post-secondary career earnings  
-    ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=white)
-    ![pandas](https://img.shields.io/badge/pandas-0d1117?style=flat&logo=pandas&logoColor=white)  
-      🖱️ **[TBA](#)** — Logitech Creative Console plugin for AI orchestration  
-    ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat&logo=dotnet&logoColor=white)
-     ![Logitech Actions SDK](https://img.shields.io/badge/Logitech_Actions_SDK-0d1117?style=flat&logoColor=white)
 
 
 ### • 2025 Projects
