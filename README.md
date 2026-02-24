@@ -20,6 +20,10 @@
     ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-0d1117?style=flat&logo=verilog&logoColor=white)
     ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0d1117?style=flat&logo=elevenlabs&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)  
+   🦞 **[LogiClaw](https://devpost.com/software/logiclaw)** — Logi Options+ plugin for agentic workflows like OpenClaw  
+    ![C#](https://img.shields.io/badge/C_Sharp-0d1117?style=flat&logo=sharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-0d1117?style=flat&logo=dotnet&logoColor=white)
+    ![Logi Actions SDK](https://img.shields.io/badge/Logi_Actions_SDK-0d1117?style=flat&logo=verilog&logoColor=white)
 
 
 ### • 2025 Projects
