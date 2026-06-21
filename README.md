@@ -1,7 +1,10 @@
 <img width="2719" height="1081" alt="image" src="https://github.com/user-attachments/assets/38d03b4c-b4ff-46ef-bf54-a8524c052235" />
 
 ### • 2026 Projects
-> 🟪 **[Purple Pages](https://devpost.com/software/purple-pages)** — agentic marketplace for ads  
+>  🩺 **[Bobby](https://devpost.com/software/onthepulse)** — function over forms  
+    ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat&logo=vite&logoColor=white)
+    ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat&logo=googlegemini&logoColor=white)  
+  🟪 **[Purple Pages](https://devpost.com/software/purple-pages)** — agentic marketplace for ads  
     ![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat&logo=vite&logoColor=white)
     ![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat&logo=googlegemini&logoColor=white)  
   🥙 **[Donair](https://donair.tech/)** — a platform for instant agentic crowdfunding  
